@@ -1,7 +1,6 @@
 # Rezi Sabashvili
 
 **Master's Student in Data Science (M2)**  
-Actively seeking a **6-month internship** in the **banking, finance, or consulting sector**
 
 ---
 
