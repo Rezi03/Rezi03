@@ -36,7 +36,7 @@
 
 ## Contact
 
-- **Email**: rezisabashvili1@gmail.com  
+- **Email**: rezisabashvili@outlook.com
 - **Phone**: +33 6 18 57 91 73  
 - **LinkedIn**: www.linkedin.com/in/rezisabashvili
-- **Portfolio**: https://rezi03.github.io/portfolio/index.html
+- **Portfolio**: [https://rezi03.github.io/portfolio/index.html](https://rezi03.github.io/portfolio/)
